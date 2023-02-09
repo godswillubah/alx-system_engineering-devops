@@ -1,5 +1,5 @@
 
-# The following files are shell scripts that are executed using the ls command followed by the name of the file. You can find a brief description of what each script is doing. :point_down:
+# Shell scripts are shell scripts that execute using the ```ls``` command, providing a brief description of their purpose. :point_down:
 
 
 ### 0-current_working_directory
