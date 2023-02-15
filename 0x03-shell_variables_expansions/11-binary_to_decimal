@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ibase=2;${BINARY}" | dc
+echo ${BINARY} | grep -o . | awk '{s = s*2 + $1} END {print s}'
